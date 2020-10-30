@@ -3,7 +3,7 @@ Version: 1.24
 Section: misc
 Priority: optional
 Architecture: all
-Depends: default-jre-headless(>=0)
+Depends: openjdk-11-jre-headless(>=0)
 Installed-Size: 100
 Maintainer: Markus Mandalka <debian@mandalka.name>
 Homepage: https://opensemanticsearch.org/
